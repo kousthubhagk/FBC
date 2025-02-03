@@ -1,4 +1,2 @@
-package com.cars24.fbc.data.repositories;
-
-public class CustomerRepository {
+package com.cars24.fbc.data.repositories;public interface CustomerRepository {
 }

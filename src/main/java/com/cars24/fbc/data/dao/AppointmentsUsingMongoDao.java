@@ -1,4 +1,2 @@
-package com.cars24.fbc.data.dao;
-
-public class AppointmentsUsingMongoDao {
+package com.cars24.fbc.data.dao;public interface AppointmentsUsingMongoDao {
 }
